@@ -8,16 +8,16 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.10.0</title>
+			<title>1.10.3</title>
 			<description>
 				<![CDATA[
 				<ul>
-				<li>1.10.0</li>
+				<li>1.10.3</li>
 				</ul>
 				]]>
 			</description>
 			<pubDate>Sun, 26 Aug 2018 15:20:11 +0000</pubDate>
-			<enclosure url="https://dlercloud.org/download/clashx-mac.dmg" sparkle:version="1.10.0" type="application/octet-stream"/>
+			<enclosure url="https://dlercloud.com/download/clashx-mac.dmg" sparkle:version="1.10.3" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
