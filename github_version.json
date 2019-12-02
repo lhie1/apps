@@ -1,0 +1,10 @@
+{
+	"koolclash-lede.tar.gz": {
+		"latest": "https://api.github.com/repos/SukkaW/Koolshare-Clash/releases",
+		"download": "https://github.com/SukkaW/Koolshare-Clash/releases/latest/download/koolclash.tar.gz",
+	},
+	"netch-win.7z": {
+		"latest": "https://api.github.com/repos/NetchX/Netch/releases",
+		"download": "https://github.com/NetchX/Netch/releases/latest/download/Netch.x.x.x.x64.7z",
+	}
+}
