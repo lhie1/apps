@@ -8,16 +8,16 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.17.1</title>
+			<title>1.17.2</title>
 			<description>
 				<![CDATA[
 				<ul>
-				<li>1.17.1</li>
+				<li>1.17.2</li>
 				</ul>
 				]]>
 			</description>
 			<pubDate>Sun, 26 Aug 2018 15:20:11 +0000</pubDate>
-			<enclosure url="https://dlercloud.sgp1.cdn.digitaloceanspaces.com/Download/clashx-mac.dmg" sparkle:version="1.17.1" type="application/octet-stream"/>
+			<enclosure url="https://dlercloud.sgp1.cdn.digitaloceanspaces.com/Download/clashx-mac.dmg" sparkle:version="1.17.2" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
