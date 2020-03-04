@@ -1,11 +1,12 @@
 {
 	"clash-win.exe": "0.9.0",
 	"clashx-mac.dmg": "1.18.0",
-	"clasha-android.apk": "1.1.0",
+	"clash-android.apk": "1.1.10",
+	"clash-android-dler.apk": "1.0.3",
 	"koolclash-lede.tar.gz": "0.17.9",
 	"ssd-android.apk": "2020.1",
 	"ssd-tv apk": "2020.1",
 	"ssd-win.zip": "2020.1",
 	"ss-android.apk": "5.0.1",
-	"netch-win.7z": "1.3.7"
+	"netch-win.7z": "1.3.8.2"
 }
