@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-	xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-	xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
 		<title>ClashX ChangeLog</title>
 		<link>https://github.com/yichengchen/clashX</link>
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.18.2</title>
+			<title>1.18.3</title>
 			<description>
 				<![CDATA[
-				<ul>
-				<li>1.18.2</li>
-				</ul>
+					<ul> <li>Update clash core. Support new config formate, see <a href="https://github.com/Dreamacro/clash/blob/dev/README.md">Clash README</a> for more detail.</li> <li>Fix url scheme config import.</li> <li>Add more information at helper install fail.</li> </ul>
 				]]>
 			</description>
-			<pubDate>Sun, 26 Aug 2018 15:20:11 +0000</pubDate>
-			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.18.2" type="application/octet-stream"/>
+			<pubDate>Sun, 15 Mar 2020 04:09:06 +0000</pubDate>
+			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.18.3" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
