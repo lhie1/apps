@@ -5,14 +5,14 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.18.3</title>
+			<title>1.19.1</title>
 			<description>
-				<![CDATA[
-					<ul> <li>Update clash core. Support new config formate, see <a href="https://github.com/Dreamacro/clash/blob/dev/README.md">Clash README</a> for more detail.</li> <li>Fix url scheme config import.</li> <li>Add more information at helper install fail.</li> </ul>
-				]]>
+			<![CDATA[
+				<ul> <li>Update core version to<a href="https://github.com/Dreamacro/clash/commit/3ccd7def8642b77bd9675237faddfe1e35bf3243"> 3ccd7de</a>.</li> <li>Update default benchmark url to <code class="language-plaintext highlighter-rouge">http://cp.cloudflare.com/generate_204</code>.</li> <li>Auto detect config filename when add remote config.</li> <li>Speedup launch time.</li> <li>Auto health check to proxy groups when network environment changed.</li> <li>Bugfixs</li> </ul>
+			]]>
 			</description>
-			<pubDate>Sun, 15 Mar 2020 04:09:06 +0000</pubDate>
-			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.18.3" type="application/octet-stream"/>
+			<pubDate>Sat, 11 Apr 2020 10:16:02 +0000</pubDate>
+			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.19.1" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
