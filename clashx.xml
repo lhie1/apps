@@ -5,14 +5,14 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.20.0</title>
+			<title>1.20.4.1</title>
 			<description>
 			<![CDATA[
-				<ul> <li>Update clash core to v0.20.0, visit <a href="https://github.com/Dreamacro/clash/releases/tag/v0.20.0">Release Note</a> for details.</li> <li>Try fix port open fail at launch.</li> <li>Default enable <code class="language-plaintext highlighter-rouge">Enhance proxy list render</code> at macOS above 10.15.2 and provide colorful proxy latency display. If this encounter problems, please go to experimental setting and disable it.</li> </ul>
+				<ul> <li>update core to latest dev(premium)</li> <li>try reduce the time of turning tun off</li> </ul> </div>Fri, 12 Jun 2020 15:05:25 GMTVersion 1.20.3 (1.20.3)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Fix iCloud related issue.</li> <li>Update clash core</li> </ul> </div>Fri, 05 Jun 2020 13:01:10 GMTVersion 1.20.3.3 (1.20.3.3)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update core, support classic rule provider</li> <li>Add a new auto interface detection mode to solve some problem in special network.</li> </ul> </div>Wed, 10 Jun 2020 14:40:32 GMTVersion 1.20.3.1 (1.20.3.1)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Fix iCloud related issue.</li> <li>Update clash core</li> </ul> </div>Sat, 06 Jun 2020 05:49:52 GMTVersion 1.20.1.3 (1.20.1.3)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update to latest clash core. add tolerance for url-test &amp; domain trie support wildcard alias.</li> <li>Persistence dashboard size</li> </ul>
 			]]>
 			</description>
 			<pubDate>Sat, 11 Apr 2020 10:16:02 +0000</pubDate>
-			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.20.0" type="application/octet-stream"/>
+			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.20.4.1" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
