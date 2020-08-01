@@ -5,14 +5,14 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>cn</language>
 		<item>
-			<title>1.20.4.1</title>
+			<title>1.30.1.3</title>
 			<description>
 			<![CDATA[
 				<ul> <li>Support Process Name rule <code>PROCESS-NAME,curl,PROXY</code></li> <li>Support shadowsocksR, go to <a href="https://github.com/Dreamacro/clash/wiki/configuration">clash core configuration wiki</a> for details</li> </ul> </div>Wed, 22 Jul 2020 16:06:55 GMTVersion 1.30.1.1 (1.30.1.1)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Support Process Name rule. Usage:</li> </ul> <pre><code> - PROCESS-NAME,curl,PROXY </code></pre> </div>Wed, 22 Jul 2020 14:48:10 GMTVersion 1.30.0.2 (1.30.0.2)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>更新图标</li> <li>更新 Clash Core 至 v1.0</li> </ul> <p>注意: 由于ClashCore 1.0的发布 本版本包括不向前兼容的更新。如果您的配置文件尚未兼容新的配置文件格式，请谨慎更新。</p> <p>查看详细内容：<a href="https://github.com/Dreamacro/clash/wiki/breaking-changes-in-1.0.0">https://github.com/Dreamacro/clash/wiki/breaking-changes-in-1.0.0</a></p> <p>主要包括：</p> <ul> <li>Proxy, Proxy Gro up and Rule 不在被支持，请更新成proxies, proxy-groups and rules.</li> <li>rule-provider 更新为 rule-providers .</li> <li>对于ss节点, obfs, obfs-host 字段被废弃，请使用plugin 和 plugin-opts 替代</li> <li>FINAL 关键字被废弃，请使用 MATCH 替代</li> <li>SOURCE-IP-CIDR 关键字被废弃，请使用 SRC-IP-CIDR 替代</li> </ul> <ul> <li>Update the app icon</li> <li>Update clash core to v1.0</li> </ul> <p>Notice: This version of ClashX contains break changes due to clash core 1.0 released. Please check your config before update.</p> <ul> <li>Get the detail changes in <a href="https://github.com/Dreamacro/clash/wiki/breaking-changes-in-1.0.0">https://github.com/Dreamacro/clash/wiki/breaking-changes-in-1.0.0</a></li> </ul> </div>Fri, 10 Jul 2020 15:12:49 GMTVersion 1.20.4.3 (1.20.4.3)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Keep socks5 port while auto enabling mixed port</li> <li>No dismiss menu when perform speedtest for groups using proxy provider</li> <li>Fix dashboard speedtest issue.</li> </ul>
 			]]>
 			</description>
 			<pubDate>Sat, 11 Apr 2020 10:16:02 +0000</pubDate>
-			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.20.4.1" type="application/octet-stream"/>
+			<enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.30.1.3" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
