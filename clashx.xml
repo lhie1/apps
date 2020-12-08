@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">  
-  <channel> 
-    <title>ClashX ChangeLog</title>  
-    <link>https://github.com/yichengchen/clashX</link>  
-    <description>Most recent changes with links to updates.</description>  
-    <language>cn</language>  
-    <item> 
-      <title>1.31.0.1</title>  
-      <description> <![CDATA[
-				<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Basic macOS 11 support</li> <li>Clash core update</li> </ul> </div>Sat, 14 Nov 2020 06:58:03 GMTVersion 1.30.4.1 (1.30.4.1)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><p>Build with macOS 11 SDK</p> </div>Wed, 11 Nov 2020 15:24:53 GMTVersion 1.30.3.2 (1.30.3.2)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update Clash Core, fix potential problems causing enhance mode start fail.</li> <li>Update default built-in dns and fallback-filter in enhance mode, check the log for details. Built-in dns will only take effect when no dns set in the config file.</li> </ul> </div>Wed, 28 Oct 2020 12:52:48 GMTVersion 1.30.3.1 (1.30.3.1)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><p>Update Core Version, better iPV6 supports.</p> </div>Sat, 24 Oct 2020 12:27:15 GMTVersion 1.30.2.2 (1.30.2.2)<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><p>No changelog given</p> </div>Mon, 05 Oct 2020 13:47:58 GMT
-			]]> </description>  
-      <pubDate>Nov 14, 2020 at 15:56</pubDate>  
-      <enclosure url="https://dler.cloud/download/clashx-mac.dmg" sparkle:version="1.31.0.1" type="application/octet-stream"/> 
-    </item> 
-  </channel> 
+  <channel>
+    <title>ClashX Pro</title>
+    <link>https://github.com/yichengchen/clashX</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>cn</language>
+    <item>
+      <title>1.31.1.1</title>
+      <description>  <![CDATA[
+      	<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update to latest clash core and bring follow updates: <ul> <li>add <code>lazy</code> for proxy group and provider</li> <li>more detailed error when dial failed</li> <li>log rule msg on dial error</li> <li>add <code>disable-udp</code> option for all proxy group</li> </ul></li> </ul> <ul> <li>Fix issue causing port open fail at launch.</li> <li>Fix clashX can not quit successfully at some case.</li> <li>Fix set start at login crash when using m1 devices.</li> <li>Support apple silicon</li> </ul> </div>
+      ]]> </description>
+      <pubDate>Sun, 06 Dec 2020 09:33:18 GMT</pubDate>
+      <enclosure sparkle:version="1.31.1.1" sparkle:shortVersionString="1.31.1.1" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
+    </item>
+  </channel>
 </rss>
