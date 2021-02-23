@@ -7,12 +7,10 @@
     <description>Most recent changes with links to updates.</description>
     <language>cn</language>
     <item>
-      <title>1.31.1.1</title>
-      <description>  <![CDATA[
-      	<div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update to latest clash core and bring follow updates: <ul> <li>add <code>lazy</code> for proxy group and provider</li> <li>more detailed error when dial failed</li> <li>log rule msg on dial error</li> <li>add <code>disable-udp</code> option for all proxy group</li> </ul></li> </ul> <ul> <li>Fix issue causing port open fail at launch.</li> <li>Fix clashX can not quit successfully at some case.</li> <li>Fix set start at login crash when using m1 devices.</li> <li>Support apple silicon</li> </ul> </div>
-      ]]> </description>
-      <pubDate>Sun, 06 Dec 2020 09:33:18 GMT</pubDate>
-      <enclosure sparkle:version="1.31.1.1" sparkle:shortVersionString="1.31.1.1" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
+      <title>1.40.0.1</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update Clash Core to 1.4.0, improve the stability of ssr, officially support Apple Silicon and bugfixs. Read <a href="https://github.com/Dreamacro/clash/releases/tag/v1.4.0">release note</a> for more details</li> <li>Fix crashes in M1 devices.</li> </ul> </div></description>
+      <pubDate>Sun, 21 Feb 2021 02:47:24 GMT</pubDate>
+      <enclosure sparkle:version="1.40.0.1" sparkle:shortVersionString="1.40.0.1" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
