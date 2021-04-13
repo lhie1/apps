@@ -1,14 +1,14 @@
 {
 	"clash-win.exe": "0.15.2",
 	"clashx-mac.dmg": "1.40.0.2",
-	"clash-android.apk": "2.3.11",
-	"clash-android-tv.apk": "2.1.6",
+	"clash-android.apk": "2.3.12",
+	"clash-android-tv.apk": "2.3.12",
 	"clash-android-plugin.apk": "1.0.11",
 	"koolclash-lede.tar.gz": "0.17.9",
 	"ssd-android.apk": "2020.1",
 	"ssd-tv.apk": "2020.1",
 	"ssd-win.zip": "2020.1",
 	"ss-android.apk": "5.0.1",
-	"ssrray-android.apk": "3.8.6",
+	"ssrray-android.apk": "3.8.9.1",
 	"netch-win.7z": "1.8.2"
 }
