@@ -7,10 +7,10 @@
     <description>Most recent changes with links to updates.</description>
     <language>cn</language>
     <item>
-      <title>1.40.0.2</title>
-      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update Clash Core to 1.4.0, improve the stability of ssr, officially support Apple Silicon and bugfixs. Read <a href="https://github.com/Dreamacro/clash/releases/tag/v1.4.0">release note</a> for more details</li> <li>Fix crashes in M1 devices.</li> </ul> </div></description>
-      <pubDate>Sun, 21 Feb 2021 02:47:24 GMT</pubDate>
-      <enclosure sparkle:version="1.40.0.2" sparkle:shortVersionString="1.40.0.2" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
+      <title>Version 1.50.1.1 (1.50.1.1)</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update Core to fix grpc related proxy issue</li> <li>Fix app icon not clear</li> </ul> </div></description>
+      <pubDate>Sun, 18 Apr 2021 05:17:08 GMT</pubDate>
+      <enclosure sparkle:version="1.50.1.1" sparkle:shortVersionString="1.50.1.1" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
