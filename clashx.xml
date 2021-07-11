@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">  
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>ClashX Pro</title>
-    <link>https://github.com/yichengchen/clashX</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>cn</language>
+    <link>/v0.1/public/sparkle/apps/1cd052f7-e118-4d13-87fb-35176f9702c1</link>
+    <item>
+      <title>Version 1.65.0.2 (1.65.0.2)</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Open config file folder will directly open iCloud folder if iCloud function is enabled</li> <li>Support script rule.</li> </ul> <p>Read release note at <a href="https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public">AppCenter</a></p> <pre><code>Example: script: shortcuts: example1: network == 'tcp' and dst_port == 80 and ( in_cidr(resolve_ip(host),&quot;220.181.38.148/24&quot;) or host.endswith(&quot;baidu.com&quot;)) example2: network == 'udp' and dst_port == 443 and geoip(resolve_ip(host)) != &quot;CN&quot; rules: - SCRIPT,example1,DIRECT - SCRIPT,example2,REJECT </code></pre> </div></description>
+      <pubDate>Sun, 11 Jul 2021 05:54:44 GMT</pubDate>
+      <enclosure sparkle:version="1.65.0.2" sparkle:shortVersionString="1.65.0.2" url="https://dler.cloud/download/clashx-mac.dmg" length="22416209" type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion/>
+    </item>
+    <item>
+      <title>Version 1.65.0.1 (1.65.0.1)</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Upgrade clash core: <ul> <li>fix vmess+wss connection issue.</li> <li>fix vmess http should use Host header on request</li> </ul></li> <li>Remote controller support remember selection.</li> </ul> </div></description>
+      <pubDate>Sun, 04 Jul 2021 07:08:24 GMT</pubDate>
+      <enclosure sparkle:version="1.65.0.1" sparkle:shortVersionString="1.65.0.1" url="https://dler.cloud/download/clashx-mac.dmg" length="22407422" type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion/>
+    </item>
+    <item>
+      <title>Version 1.60.0.2 (1.60.0.2)</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Upgrade Clash core, check <a href="https://github.com/Dreamacro/clash/releases/tag/v1.6.0">Core release note</a> for details</li> </ul> </div></description>
+      <pubDate>Tue, 15 Jun 2021 14:03:34 GMT</pubDate>
+      <enclosure sparkle:version="1.60.0.2" sparkle:shortVersionString="1.60.0.2" url="https://dler.cloud/download/clashx-mac.dmg" length="22370637" type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion/>
+    </item>
     <item>
       <title>Version 1.50.1.1 (1.50.1.1)</title>
       <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Update Core to fix grpc related proxy issue</li> <li>Fix app icon not clear</li> </ul> </div></description>
       <pubDate>Sun, 18 Apr 2021 05:17:08 GMT</pubDate>
-      <enclosure sparkle:version="1.50.1.1" sparkle:shortVersionString="1.50.1.1" url="https://dler.cloud/download/clashx-mac.dmg" type="application/octet-stream"/>
+      <enclosure sparkle:version="1.50.1.1" sparkle:shortVersionString="1.50.1.1" url="https://dler.cloud/download/clashx-mac.dmg" length="22371414" type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion/>
+    </item>
+    <item>
+      <title>Version 1.50.0.1 (1.50.0.1)</title>
+      <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Upgrade Clash Core to 1.5.0. View <a href="https://github.com/Dreamacro/clash/releases/tag/v1.5.0">Clash Release Note</a> for details</li> </ul> </div></description>
+      <pubDate>Sun, 11 Apr 2021 04:03:13 GMT</pubDate>
+      <enclosure sparkle:version="1.50.0.1" sparkle:shortVersionString="1.50.0.1" url="null" length="21053372" type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion/>
     </item>
   </channel>
 </rss>
